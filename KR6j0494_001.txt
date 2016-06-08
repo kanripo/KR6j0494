@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:40.030723
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:19
 #+TITLE: 觀自在菩薩化身蘘麌哩曳童女銷伏毒害陀羅尼經
 #+PROPERTY: CBETA_ID T21n1264a
 #+PROPERTY: ID KR6j0494
